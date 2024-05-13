@@ -1,4 +1,4 @@
-#tictac
+#tictac with reset button
 #Created By Mohamed Saber
 
 from tkinter import *
